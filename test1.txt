@@ -1,0 +1,9 @@
+giorgi sizi kapanadze
+giorgi 
+
+clc
+clear all
+close all
+
+// exla ra xdeba?
+da exla?
